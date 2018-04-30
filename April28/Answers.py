@@ -154,6 +154,10 @@ Error, please enter numeric input
 Enter Hours: forty
 Error, please enter numeric input
 
+
+/////
+/////Answer 4
+/////
 '''
 # I borrowed code from Question 1, then made it into a function
 def work_hours(): # using the word 'def' makes whatever follows into a function.  please end your function name with '()' to make it a function.  do not use '[]'
