@@ -1,0 +1,62 @@
+07:03:02	 From Cheree Warrick : Now I can hear you with my earplugs on.  That is weird. LOL
+07:03:25	 From Cheree Warrick : Yes.  
+07:03:45	 From Cheree Warrick : Good morning everyone
+07:04:32	 From Eric Spence : Good morning everyone
+07:08:12	 From Cheree Warrick :  you are saving lives with explaining the the DEF with IF and ELSE.  lol
+07:08:28	 From Cheree Warrick : Especially when you begin to explain that HOURLY RATE equation!
+07:10:02	 From Melissa Hong : Hi Cheree, I can hear your audio
+07:10:44	 From Cheree Warrick : Thanks Melissa...LOL
+07:16:44	 From sydney stinson  to  All Panelists : helpful-thnx
+07:17:00	 From Cheree Warrick : Thanks Melissa.  
+07:21:18	 From Jamie Jones  to  All Panelists : is this being recorded
+07:21:21	 From sydney stinson  to  All Panelists : they are saying the space is tiny
+07:21:38	 From Jamie Jones  to  All Panelists : great thanks
+07:25:32	 From sydney stinson  to  All Panelists : why would you use that versus just putting in the number?
+07:28:04	 From Cheree Warrick : That's how I figured that out... that it was based on numeric value, but I was using it by the number 
+07:28:22	 From Cheree Warrick : w was in the alphabet as number 24.. lol
+07:28:48	 From Cheree Warrick : That was my 'laymans
+07:28:49	 From sydney stinson  to  All Panelists : yes cheer-that is what I thought also
+07:28:51	 From Cheree Warrick :  thinking
+07:29:07	 From Jamie Jones  to  All Panelists : how do you get to that table
+07:40:17	 From sydney stinson  to  All Panelists : so when it’s a parameter that is essentially calling the function?
+07:40:46	 From sydney stinson  to  All Panelists : or invoking the function
+07:43:08	 From sydney stinson  to  All Panelists : so func(10) is a argument that is automatically invocked
+07:43:45	 From sydney stinson  to  All Panelists : after it is defined it auto invokes?
+07:44:07	 From sydney stinson  to  All Panelists : how are you  calling it?
+07:45:08	 From sydney stinson  to  All Panelists : would you show how in the quiz you are calling/invoking
+07:47:08	 From sydney stinson  to  All Panelists : got it
+07:47:54	 From sydney stinson  to  All Panelists : is the func(10) a parameter or an argument or neither
+07:48:30	 From sydney stinson  to  All Panelists : perfect!
+07:49:23	 From sydney stinson  to  All Panelists : perfect!   this helps a lot more and i  will keep listening
+07:51:26	 From Cheree Warrick : You are helping us big time!
+07:51:28	 From Cheree Warrick : Thanks
+07:53:04	 From sydney stinson  to  All Panelists : OMg-spelling it out like this is SUPER HELPFUL
+07:55:34	 From Eric Spence : Agreed
+07:55:37	 From Cheree Warrick : Totally Agreeing with you Sydney!
+07:55:46	 From Jamie Jones  to  All Panelists : nice to know you can use. a type and input at the same time
+07:56:22	 From sydney stinson  to  All Panelists : Like this is night and day for me.  OMg!
+07:56:34	 From Cheree Warrick : LOL. Sydney
+07:56:55	 From Cheree Warrick : Maybe Melissa should be the one teaching Python in Coursera. 
+07:57:13	 From Eric Spence : She gets my vote.
+07:57:25	 From sydney stinson  to  All Panelists : YAAAAAAAAAS!   This is much better than coursera!
+07:58:06	 From Anita Callaway  to  All Panelists : won't that be equal to 40 or less (rate times hour)
+07:58:37	 From Anita Callaway  to  All Panelists : what happens if the hours are 40
+08:09:40	 From Anita Callaway  to  All Panelists : could you have coded <=40?
+08:12:52	 From Anita Callaway  to  All Panelists : i am not sure i followed how you called the computepay function
+08:13:07	 From Cheree Warrick : Good job of explaining, Melissa
+08:13:54	 From Anita Callaway  to  All Panelists : i am confused because before you put in function(10) for example
+08:19:14	 From Anita Callaway  to  All Panelists : the function does not run
+08:20:04	 From Anita Callaway  to  All Panelists : that explains it.
+08:20:55	 From sydney stinson  to  All Panelists : Great session again, Melissa.  Thank you!  I have to jump off.
+08:26:12	 From Cheree Warrick : Thanks Sydeny (Tessa)
+08:26:54	 From Eric Spence : Melissa the Cat Lady of Coding
+08:27:01	 From Cheree Warrick : Yes Eric!  LOL
+08:27:12	 From Eric Spence : LOL
+08:28:58	 From Cheree Warrick : Thank you Melissa... this was soooooo helpful (Tessa)
+08:30:38	 From Melissa Hong : https://atom.io/packages/platformio-ide-terminal
+08:35:43	 From Jamie Jones  to  All Panelists : I’m doing the happy dance
+08:35:48	 From Eric Spence : Thank you Melissa! This was really helpful.
+08:35:50	 From Cheree Warrick : THANK YOU MELISSA!  YOU WERE THE EST!
+08:35:51	 From Cheree Warrick : BEST
+08:36:01	 From Anita Callaway  to  All Panelists : thanks melissa!
+08:36:08	 From Cheree Warrick : Thanks Everyone (Tessa)
