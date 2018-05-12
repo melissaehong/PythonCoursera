@@ -41,24 +41,28 @@ def computepay():
 
     print(total)
     # this line is run when the program ends (runs through the if statement, else statement and then is done)
-
+'''
 def computepay():
     #indent after you define your function ALWAYS
     enter_hours = float(input("Enter hours: "))
     rate_per_hour = float(input("Rate per hour: "))
+    total = ''
     if enter_hours < 40:
         total = enter_hours*rate_per_hour
         # indent after the if/else statement ALWAYS
+        return total
     if enter_hours == 40:
         print("I'm forty!")
         total = "nothing"
+        return total
     else:
         total = (40*rate_per_hour) + (enter_hours-40)*(1.5*rate_per_hour)
         # indent after the if/else statement ALWAYS
-    print(total)
+        return total
 
-computepay() # <---- calling the computerpay function by using '()'
+print(computepay()) # <---- calling the computerpay function by using '()'
 
+'''
 #invoke/call computepay function by typing "computerpay()"
 #when you enter 40, it will be considered 'less than 40'
 
@@ -199,4 +203,4 @@ def i_am_hungry():
 
 #i_am_hungry()
 #invoke or call i_am_hungry with the parenthesis after the function
-i_am_hungry() #this is function is not called or invoked
+i_am_hungry #this is function is not called or invoked

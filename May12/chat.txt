@@ -1,0 +1,49 @@
+07:12:34	 From sydney stinson  to  All Panelists : does everyone the ls to get to their folders
+07:13:04	 From sydney stinson  to  All Panelists : sorry-does everyone have to type “ls” to get to their folders
+07:15:39	 From Melissa Hong : platformio-ide-terminal
+07:17:44	 From sydney stinson  to  All Panelists : ok-thnx-will have to try.  want to try it with the assignments
+07:20:14	 From sydney stinson  to  All Panelists : LOL-was driving me crazy too-thanx!
+07:21:11	 From sydney stinson  to  All Panelists : showing how you are running this program in your  terminal is the detail I need
+07:26:39	 From sydney stinson  to  All Panelists : you get the same output but not sure why we need retrun
+07:32:34	 From Erin  to  All Panelists : Put it after Def I_Am_Hungry and before If hotdog = true
+07:33:26	 From Erin  to  All Panelists : That's not what i meant. Put hotdog = 'false' after Def I_Am-Hungry.  Leave the Def isHotDog up where you originally had it
+07:34:10	 From Erin  to  All Panelists : Or, yep, put it all in a function. That should work
+07:35:56	 From Erin  to  All Panelists : Put def ishotdog up above i_am_hungry
+07:36:18	 From Erin  to  All Panelists : Sorry to be bothering you while you're live!  :-)
+08:02:13	 From Tawana Rivers  to  All Panelists : please figure it out now
+08:02:33	 From sydney stinson  to  All Panelists : yes-not sure why done is not working and would like to figure it out
+08:04:22	 From Anita Callaway  to  All Panelists : in the example you just did, isn't 100 maximum not 99
+08:09:05	 From sydney stinson  to  All Panelists : This is what i have and it works except  done
+08:09:07	 From sydney stinson  to  All Panelists : largest = None
+smallest = None
+while True:
+    try:
+        num = raw_input("Enter a number: ")
+        if num == "done":
+            break
+        print (num)
+        num = int(num)
+        if largest is None or largest < num:
+            largest = num
+        elif smallest is None or smallest > num:
+             smallest = num
+    except ValueError:
+        print("Invalid input")
+ 
+print ("Maximum is", largest)
+print ("Minimum is", smallest)
+08:19:53	 From sydney stinson  to  All Panelists : thank you!
+08:26:42	 From Tawana Rivers  to  All Panelists : yes
+08:26:44	 From sydney stinson  to  All Panelists : yes-this illustration is very helpful
+08:35:29	 From sydney stinson  to  All Panelists : so it just stays at true-wasn’t totally clear on that it won’t go back to false
+08:38:15	 From Tawana Rivers  to  All Panelists : I love the “T” diagram. it really helps you understand the logic.
+08:43:41	 From sydney stinson  to  All Panelists : so then the value in brackets could be anything then
+08:44:22	 From sydney stinson  to  All Panelists : so what was the purpose of  the numbers in brackets if it was really just about the place/index
+08:44:47	 From Anita Callaway  to  All Panelists : you confused me when you said that tot is 0, then 1, 2, 3, 4.  (i guess its the place index)
+08:45:10	 From sydney stinson : I don’t think he celery explained this in the lecture
+08:45:25	 From sydney stinson : *clearly
+08:46:53	 From Anita Callaway  to  All Panelists : but how does that relate to the string 5,4,3,2,1?
+08:47:06	 From Anita Callaway  to  All Panelists : that's confusing
+08:47:20	 From Anita Callaway  to  All Panelists : he didn't mention index values
+09:01:25	 From sydney stinson  to  All Panelists : got it-thank you
+09:04:18	 From sydney stinson  to  All Panelists : very helpful-thank you
