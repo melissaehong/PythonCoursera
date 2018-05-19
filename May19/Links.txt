@@ -1,0 +1,16 @@
+Links to all websites used during tutoring session:
+https://stackoverflow.com/questions/19473185/what-is-a-none-value
+https://www.tutorialspoint.com/python/python_while_loop.htm
+http://www.pythonforbeginners.com/error-handling/python-try-and-except
+https://www.smallsurething.com/the-difference-between-input-and-raw_input-in-python/
+https://www.tutorialspoint.com/python/python_if_else.htm
+https://docs.python.org/2/library/string.html
+https://pyformat.info/
+https://wiki.python.org/moin/ForLoop
+https://stackoverflow.com/questions/19523563/python-typeerror-int-object-is-not-iterable
+https://www.tutorialspoint.com/python/string_find.htm
+https://www.dotnetperls.com/slice-python
+https://stackoverflow.com/questions/5119709/true-and-false-in-python
+https://www.pythoncentral.io/how-to-use-pythons-xrange-and-range/
+https://www.tutorialspoint.com/python/string_find.htm
+https://www.dotnetperls.com/slice-python

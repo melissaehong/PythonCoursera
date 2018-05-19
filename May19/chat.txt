@@ -1,0 +1,12 @@
+07:05:35	 From Cheree Warrick  to  All Panelists : Good morning Everyone!
+07:18:51	 From Melissa Hong : https://www.smallsurething.com/the-difference-between-input-and-raw_input-in-python/
+07:35:52	 From sydney stinson  to  All Panelists : Melissa thank you for showing us how you work through and use google.  great to see ur thought process to learning
+07:40:31	 From Cheree Warrick  to  All Panelists : agreed Sydney
+07:45:25	 From sydney stinson  to  All Panelists : what is letter considered
+07:45:49	 From sydney stinson  to  All Panelists : is it an iteration varable
+07:46:04	 From sydney stinson  to  All Panelists : thnx
+07:54:53	 From sydney stinson  to  All Panelists : 1,2,3
+07:57:18	 From sydney stinson  to  All Panelists : what is the else statement asking
+07:59:43	 From sydney stinson  to  All Panelists : letter for each word
+08:10:51	 From sydney stinson  to  All Panelists : after stephen
+08:20:05	 From sydney stinson  to  All Panelists : 18
